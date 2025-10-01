@@ -1,0 +1,11 @@
+C:\Users\5m\Desktop\projekty visual studio\czerwiec23_2\czerwiec23_2\bin\Debug\czerwiec23_2.exe.config
+C:\Users\5m\Desktop\projekty visual studio\czerwiec23_2\czerwiec23_2\bin\Debug\czerwiec23_2.exe
+C:\Users\5m\Desktop\projekty visual studio\czerwiec23_2\czerwiec23_2\bin\Debug\czerwiec23_2.pdb
+C:\Users\5m\Desktop\projekty visual studio\czerwiec23_2\czerwiec23_2\obj\Debug\czerwiec23_2.csproj.AssemblyReference.cache
+C:\Users\5m\Desktop\projekty visual studio\czerwiec23_2\czerwiec23_2\obj\Debug\czerwiec23_2.Form1.resources
+C:\Users\5m\Desktop\projekty visual studio\czerwiec23_2\czerwiec23_2\obj\Debug\czerwiec23_2.Properties.Resources.resources
+C:\Users\5m\Desktop\projekty visual studio\czerwiec23_2\czerwiec23_2\obj\Debug\czerwiec23_2.csproj.GenerateResource.cache
+C:\Users\5m\Desktop\projekty visual studio\czerwiec23_2\czerwiec23_2\obj\Debug\czerwiec23_2.csproj.CoreCompileInputs.cache
+C:\Users\5m\Desktop\projekty visual studio\czerwiec23_2\czerwiec23_2\obj\Debug\czerwiec23_2.exe
+C:\Users\5m\Desktop\projekty visual studio\czerwiec23_2\czerwiec23_2\obj\Debug\czerwiec23_2.pdb
+C:\Users\5m\Desktop\projekty visual studio\czerwiec23_2\czerwiec23_2\obj\Debug\czerwiec23_2.exe.config
